@@ -1,0 +1,36 @@
+.page-title {
+    text-align: center;
+}
+
+#frmPurchase {
+    margin: 30px auto;
+    width: 400px;
+    height: 120px;
+    background-color: azure;
+}
+
+#info {
+    width: 360px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+
+#btnSubmit {
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: limegreen;
+    font-family: "Arial Black";
+    font-weight: bold;
+    margin-top: 14px;
+    margin-left: 130px;
+}
+
+#btnSubmit:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.message {
+    font-size: 13px;
+}
